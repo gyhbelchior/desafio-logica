@@ -46,4 +46,3 @@ console.log("O Herói de nome " + heroinome[5] + " está no nível de " + classi
 console.log("O Herói de nome " + heroinome[6] + " está no nível de " + classificacoes[6])
 console.log("O Herói de nome " + heroinome[7] + " está no nível de " + classificacoes[7])
 
-// xp.length é uma propriedade utilizada em JavaScript para encontrar o número de elementos (o tamanho) existentes em um array chamado xp.
